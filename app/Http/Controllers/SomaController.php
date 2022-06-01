@@ -41,4 +41,4 @@ class SomaController extends Controller
         // $soma->fill($request->contato->all)->save();
         return redirect('/');
     }
-}
+}     
